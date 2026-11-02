@@ -12,7 +12,7 @@ O FENARIUM é uma aplicação HTML de um só ficheiro, offline: um atlas de perc
 
 ## Utilização
 
-Abra fenarium.html num navegador moderno. Sem instalação, sem conta, sem rastreamento; os dados ficam no seu navegador (localStorage). O seletor de idioma está na barra superior (English, Română, Français, Italiano, Español, Português, Deutsch, Magyar).
+Abra index.html num navegador moderno. Sem instalação, sem conta, sem rastreamento; os dados ficam no seu navegador (localStorage). O seletor de idioma está na barra superior (English, Română, Français, Italiano, Español, Português, Deutsch, Magyar).
 
 ## Segurança e limites
 

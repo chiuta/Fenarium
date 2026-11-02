@@ -12,7 +12,7 @@ FENARIUM est une application HTML d'un seul fichier, hors ligne : un atlas des p
 
 ## Utilisation
 
-Ouvrez fenarium.html dans un navigateur récent. Sans installation, sans compte, sans pistage ; les données restent dans votre navigateur (localStorage). Le sélecteur de langue se trouve dans la barre supérieure (English, Română, Français, Italiano, Español, Português, Deutsch, Magyar).
+Ouvrez index.html dans un navigateur récent. Sans installation, sans compte, sans pistage ; les données restent dans votre navigateur (localStorage). Le sélecteur de langue se trouve dans la barre supérieure (English, Română, Français, Italiano, Español, Português, Deutsch, Magyar).
 
 ## Sécurité et limites
 

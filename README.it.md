@@ -12,7 +12,7 @@ FENARIUM è un'app HTML in un solo file, offline: un atlante delle percezioni so
 
 ## Uso
 
-Apri fenarium.html in un browser moderno. Nessuna installazione, nessun account, nessun tracciamento; i dati restano nel tuo browser (localStorage). Il selettore della lingua è nella barra superiore (English, Română, Français, Italiano, Español, Português, Deutsch, Magyar).
+Apri index.html in un browser moderno. Nessuna installazione, nessun account, nessun tracciamento; i dati restano nel tuo browser (localStorage). Il selettore della lingua è nella barra superiore (English, Română, Français, Italiano, Español, Português, Deutsch, Magyar).
 
 ## Sicurezza e limiti
 

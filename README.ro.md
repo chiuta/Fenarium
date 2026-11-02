@@ -12,7 +12,7 @@ FENARIUM este o aplicație HTML single-file, offline: un atlas al percepțiilor 
 
 ## Utilizare
 
-Deschide fenarium.html în orice browser modern. Fără instalare, fără cont, fără tracking; datele rămân în browserul tău (localStorage). Selectorul de limbă este în bara de sus (English, Română, Français, Italiano, Español, Português, Deutsch, Magyar).
+Deschide index.html în orice browser modern. Fără instalare, fără cont, fără tracking; datele rămân în browserul tău (localStorage). Selectorul de limbă este în bara de sus (English, Română, Français, Italiano, Español, Português, Deutsch, Magyar).
 
 ## Siguranță și limite
 

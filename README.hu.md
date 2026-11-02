@@ -12,7 +12,7 @@ A FENARIUM egyetlen fájlból álló, offline HTML-alkalmazás: a szubjektív é
 
 ## Használat
 
-Nyisd meg a fenarium.html fájlt egy modern böngészőben. Telepítés, fiók és nyomkövetés nélkül; az adatok a böngésződben maradnak (localStorage). A nyelvválasztó a felső sávban található (English, Română, Français, Italiano, Español, Português, Deutsch, Magyar).
+Nyisd meg a index.html fájlt egy modern böngészőben. Telepítés, fiók és nyomkövetés nélkül; az adatok a böngésződben maradnak (localStorage). A nyelvválasztó a felső sávban található (English, Română, Français, Italiano, Español, Português, Deutsch, Magyar).
 
 ## Biztonság és korlátok
 
