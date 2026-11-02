@@ -4,7 +4,7 @@
 
 **Atlas and workshop of phenes: subjective perceptions across all senses, starting from Phosphenism.**
 
-Version: 8 · Last updated: 3 November 2026
+Version: 9 · Last updated: 3 November 2026
 
 ## What it is
 
@@ -12,7 +12,7 @@ FENARIUM is a single-file, offline HTML app: an atlas of subjective perceptions 
 
 ## Use
 
-Open index.html in any modern browser. No installation, no account, no tracking; data stays in your browser (localStorage). The language selector is in the top bar (English, Română, Français, Italiano, Español, Português, Deutsch, Magyar).
+Open index.html in any modern browser. No installation, no account, no tracking; data stays in your browser (localStorage). The language selector is in the top bar (English, Română, Français, Italiano, Español, Português, Deutsch, Magyar). Online: https://fenarium.chiuta.ro. The layout adapts to desktop (side menu), tablet and mobile (wrapping menu, no scrolling).
 
 ## Safety and limits
 

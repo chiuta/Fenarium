@@ -4,7 +4,7 @@
 
 **Atlas și atelier al fenelor: percepții subiective în toate simțurile, pornind de la Fosfenism.**
 
-Versiune: 8 · Ultima actualizare: 3 noiembrie 2026
+Versiune: 9 · Ultima actualizare: 3 noiembrie 2026
 
 ## Ce este
 
@@ -12,7 +12,7 @@ FENARIUM este o aplicație HTML single-file, offline: un atlas al percepțiilor 
 
 ## Utilizare
 
-Deschide index.html în orice browser modern. Fără instalare, fără cont, fără tracking; datele rămân în browserul tău (localStorage). Selectorul de limbă este în bara de sus (English, Română, Français, Italiano, Español, Português, Deutsch, Magyar).
+Deschide index.html în orice browser modern. Fără instalare, fără cont, fără tracking; datele rămân în browserul tău (localStorage). Selectorul de limbă este în bara de sus (English, Română, Français, Italiano, Español, Português, Deutsch, Magyar). Online: https://fenarium.chiuta.ro. Interfața se adaptează la desktop (meniu lateral), tabletă și mobil (meniu pe mai multe rânduri, fără derulare).
 
 ## Siguranță și limite
 

@@ -4,7 +4,7 @@
 
 **Atlante e laboratorio dei fene: percezioni soggettive in tutti i sensi, a partire dal Fosfenismo.**
 
-Versione: 8 · Ultimo aggiornamento: 3 novembre 2026
+Versione: 9 · Ultimo aggiornamento: 3 novembre 2026
 
 ## Che cos'è
 
@@ -12,7 +12,7 @@ FENARIUM è un'app HTML in un solo file, offline: un atlante delle percezioni so
 
 ## Uso
 
-Apri index.html in un browser moderno. Nessuna installazione, nessun account, nessun tracciamento; i dati restano nel tuo browser (localStorage). Il selettore della lingua è nella barra superiore (English, Română, Français, Italiano, Español, Português, Deutsch, Magyar).
+Apri index.html in un browser moderno. Nessuna installazione, nessun account, nessun tracciamento; i dati restano nel tuo browser (localStorage). Il selettore della lingua è nella barra superiore (English, Română, Français, Italiano, Español, Português, Deutsch, Magyar). Online: https://fenarium.chiuta.ro. L’interfaccia si adatta a desktop (menu laterale), tablet e mobile (menu su più righe, senza scorrimento).
 
 ## Sicurezza e limiti
 

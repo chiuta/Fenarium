@@ -4,7 +4,7 @@
 
 **Atlas y taller de las fenas: percepciones subjetivas en todos los sentidos, a partir del Fosfenismo.**
 
-Versión: 8 · Última actualización: 3 de noviembre de 2026
+Versión: 9 · Última actualización: 3 de noviembre de 2026
 
 ## Qué es
 
@@ -12,7 +12,7 @@ FENARIUM es una aplicación HTML de un solo archivo, sin conexión: un atlas de 
 
 ## Uso
 
-Abre index.html en un navegador moderno. Sin instalación, sin cuenta, sin rastreo; los datos permanecen en tu navegador (localStorage). El selector de idioma está en la barra superior (English, Română, Français, Italiano, Español, Português, Deutsch, Magyar).
+Abre index.html en un navegador moderno. Sin instalación, sin cuenta, sin rastreo; los datos permanecen en tu navegador (localStorage). El selector de idioma está en la barra superior (English, Română, Français, Italiano, Español, Português, Deutsch, Magyar). En línea: https://fenarium.chiuta.ro. La interfaz se adapta a escritorio (menú lateral), tableta y móvil (menú en varias filas, sin desplazamiento).
 
 ## Seguridad y límites
 
