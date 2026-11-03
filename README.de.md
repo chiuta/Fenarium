@@ -4,7 +4,7 @@
 
 **Atlas und Werkstatt der Phäne: subjektive Wahrnehmungen in allen Sinnen, ausgehend vom Phosphenismus.**
 
-Version: 9 · Letzte Aktualisierung: 3. November 2026
+Version: 9.1.0 · Letzte Aktualisierung: 3. November 2026
 
 ## Was es ist
 
@@ -12,7 +12,7 @@ FENARIUM ist eine HTML-App in einer einzigen Datei, offline nutzbar: ein Atlas s
 
 ## Nutzung
 
-Öffne index.html in einem aktuellen Browser. Keine Installation, kein Konto, kein Tracking; die Daten bleiben in deinem Browser (localStorage). Die Sprachauswahl befindet sich in der oberen Leiste (English, Română, Français, Italiano, Español, Português, Deutsch, Magyar). Online: https://fenarium.chiuta.ro. Die Oberfläche passt sich an Desktop (Seitenmenü), Tablet und Smartphone an (mehrzeiliges Menü, ohne Scrollen).
+Öffne index.html in einem aktuellen Browser. Keine Installation, kein Konto, kein Tracking; die Daten bleiben in deinem Browser (localStorage). Die Sprachauswahl befindet sich in der oberen Leiste (English, Română, Français, Italiano, Español, Português, Deutsch, Magyar). Online: https://fenarium.chiuta.ro. Die Oberfläche passt sich an Desktop (Seitenmenü), Tablet und Smartphone an (mehrzeiliges Menü, ohne Scrollen). Klicke auf die Versionsangabe, um den Dialog „Transparenz“ zu öffnen (Netzwerk, Speicher, `.fff.json`-Sicherung, Abgleich zwischen deinen Geräten). Seit 9.1.0 heißen die Datenschlüssel `fenarium.*`; die Schlüssel früherer Versionen (`fenarium_*`) werden beim ersten Start automatisch kopiert und bleiben unangetastet. Die Oberfläche hat 8 Sprachen; Übersetzungen außer Rumänisch sind automatisch und nicht von Muttersprachlern geprüft.
 
 ## Sicherheit und Grenzen
 

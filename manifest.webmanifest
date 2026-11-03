@@ -1,0 +1,36 @@
+{
+  "name": "FENARIUM",
+  "short_name": "FENARIUM",
+  "description": "FENARIUM — offline, single-file atlas and workshop of phenes: subjective perceptions in all the senses, starting from Phosphenism. 8 languages, no tracking, no account.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "lang": "ro",
+  "background_color": "#07060f",
+  "theme_color": "#07060f",
+  "categories": [
+    "education"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "x_fff_pwa": 1
+}

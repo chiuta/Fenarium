@@ -4,7 +4,7 @@
 
 **A fénok atlasza és műhelye: szubjektív észlelések minden érzékszervben, a foszfenizmusból kiindulva.**
 
-Verzió: 9 · Utolsó frissítés: 2026. november 3.
+Verzió: 9.1.0 · Utolsó frissítés: 2026. november 3.
 
 ## Mi ez
 
@@ -12,7 +12,7 @@ A FENARIUM egyetlen fájlból álló, offline HTML-alkalmazás: a szubjektív é
 
 ## Használat
 
-Nyisd meg a index.html fájlt egy modern böngészőben. Telepítés, fiók és nyomkövetés nélkül; az adatok a böngésződben maradnak (localStorage). A nyelvválasztó a felső sávban található (English, Română, Français, Italiano, Español, Português, Deutsch, Magyar). Online: https://fenarium.chiuta.ro. A felület alkalmazkodik az asztali géphez (oldalmenü), a táblagéphez és a mobilhoz (többsoros menü, görgetés nélkül).
+Nyisd meg a index.html fájlt egy modern böngészőben. Telepítés, fiók és nyomkövetés nélkül; az adatok a böngésződben maradnak (localStorage). A nyelvválasztó a felső sávban található (English, Română, Français, Italiano, Español, Português, Deutsch, Magyar). Online: https://fenarium.chiuta.ro. A felület alkalmazkodik az asztali géphez (oldalmenü), a táblagéphez és a mobilhoz (többsoros menü, görgetés nélkül). Kattints a verzió feliratra az „Átláthatóság” párbeszédablakhoz (hálózat, tárolás, `.fff.json` mentés, szinkronizálás az eszközeid között). A 9.1.0 óta az adatkulcsok neve `fenarium.*`; a korábbi verziók kulcsait (`fenarium_*`) az első indításkor automatikusan átmásoljuk, és érintetlenül hagyjuk. A felület 8 nyelvű; a románon kívüli fordítások automatikusak, anyanyelvi beszélők nem ellenőrizték őket.
 
 ## Biztonság és korlátok
 

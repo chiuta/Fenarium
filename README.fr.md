@@ -4,7 +4,7 @@
 
 **Atlas et atelier des phènes : perceptions subjectives dans tous les sens, à partir du Phosphénisme.**
 
-Version : 9 · Dernière mise à jour : 3 novembre 2026
+Version : 9.1.0 · Dernière mise à jour : 3 novembre 2026
 
 ## De quoi s'agit-il
 
@@ -12,7 +12,7 @@ FENARIUM est une application HTML d'un seul fichier, hors ligne : un atlas des p
 
 ## Utilisation
 
-Ouvrez index.html dans un navigateur récent. Sans installation, sans compte, sans pistage ; les données restent dans votre navigateur (localStorage). Le sélecteur de langue se trouve dans la barre supérieure (English, Română, Français, Italiano, Español, Português, Deutsch, Magyar). En ligne : https://fenarium.chiuta.ro. L’interface s’adapte au bureau (menu latéral), à la tablette et au mobile (menu sur plusieurs lignes, sans défilement).
+Ouvrez index.html dans un navigateur récent. Sans installation, sans compte, sans pistage ; les données restent dans votre navigateur (localStorage). Le sélecteur de langue se trouve dans la barre supérieure (English, Română, Français, Italiano, Español, Português, Deutsch, Magyar). En ligne : https://fenarium.chiuta.ro. L’interface s’adapte au bureau (menu latéral), à la tablette et au mobile (menu sur plusieurs lignes, sans défilement). Clique sur l'étiquette de version pour ouvrir la boîte « Transparence » (réseau, stockage, sauvegarde `.fff.json`, synchronisation entre tes appareils). Depuis 9.1.0, les clés de données s'appellent `fenarium.*` ; celles des versions précédentes (`fenarium_*`) sont copiées automatiquement au premier démarrage et laissées intactes. L'interface compte 8 langues ; les traductions autres que le roumain sont automatiques et non vérifiées par des locuteurs natifs.
 
 ## Sécurité et limites
 
