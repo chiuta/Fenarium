@@ -21,3 +21,5 @@ Material educativo, no un producto sanitario: no diagnostica, no trata ni previe
 ## Licencia
 
 MIT · © Alexandru-Ionuț Chiuță (Alexio). Independiente: sin afiliación con fosfenismul.com ni con Asociația Phoenix.
+
+<!-- traducere: es=automat -->

@@ -21,3 +21,5 @@ Bildungsmaterial, kein Medizinprodukt: Es diagnostiziert, behandelt und verhinde
 ## Lizenz
 
 MIT · © Alexandru-Ionuț Chiuță (Alexio). Unabhängig: nicht verbunden mit fosfenismul.com oder Asociația Phoenix.
+
+<!-- traducere: de=automat -->

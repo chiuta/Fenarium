@@ -21,3 +21,5 @@ Oktatási anyag, nem orvostechnikai eszköz: nem diagnosztizál, nem kezel és n
 ## Licenc
 
 MIT · © Alexandru-Ionuț Chiuță (Alexio). Független: nincs kapcsolatban a fosfenismul.com-mal vagy az Asociația Phoenixszel.
+
+<!-- traducere: hu=automat -->
