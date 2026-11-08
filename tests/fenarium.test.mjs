@@ -1,4 +1,4 @@
-// FENARIUM — teste proprii (kit FFF, v9.1.1): pornire, MIGRAREA cheilor de stocare fenarium_* → fenarium.* (fără pierdere de date),
+// FENARIUM — teste proprii (kit FFF, v9.1.2): pornire, MIGRAREA cheilor de stocare fenarium_* → fenarium.* (fără pierdere de date),
 // dialoguri ale kitului în locul celor native, copie de siguranță, axe-core, 8 limbi fără depășiri, import ostil.
 // Rulare: node tests/fenarium.test.mjs
 //   Playwright: din NODE_PATH / PW_ROOT; Chromium: CHROMIUM_PATH; axe-core: FFF_AXE / AXE_PATH sau pachetul `axe-core`.
