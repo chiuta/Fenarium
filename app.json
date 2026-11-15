@@ -12,6 +12,7 @@
     "serviceWorker",
     "localStorage",
     "Web Crypto",
+    "WebGL",
     "BroadcastChannel"
   ],
   "storageKeys": [
@@ -21,14 +22,14 @@
     "fenarium.set.v1",
     "fenarium.theme"
   ],
-  "sizeBytes": 1659597,
-  "sha256": "483b8ab3e444c94bcba55bacce5edd8bd76da752f0d262f71d0e80826ec4b8e5",
+  "sizeBytes": 1711607,
+  "sha256": "bec949f6cc32f3e0897e53a20371514d42ced12b8c22c7ca57fa9144ccccdf23",
   "csp": {
     "present": true,
     "directives": {
       "default-src": "'none'",
       "connect-src": "'none'",
-      "script-src": "sha256×6",
+      "script-src": "sha256×7",
       "style-src": "'unsafe-inline'",
       "img-src": "'self' data:",
       "base-uri": "'none'",
